@@ -1,4 +1,4 @@
-# AgroTrust — Blockchain GI Supply Chain Tracking
+# AgroTrust - Blockchain GI Supply Chain Tracking
 
 AgroTrust is a decentralized application (dApp) for transparent GI (Geographical Indication) supply chain tracking. It connects farmers, certifiers, and retailers, ensuring authenticity and end‑to‑end traceability of agricultural batches on Ethereum.
 
